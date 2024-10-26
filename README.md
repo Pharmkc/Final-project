@@ -1,5 +1,6 @@
 # Final-project
-FUNCTION: This project develops a survey tool to collect participants' data on how they spend their income, analyzing it for a new product launch in the healthcare industry.
+FUNCTION: 
+This project develops a survey tool to collect participants' data on how they spend their income, analyzing it for a new product launch in the healthcare industry.
 Procedure:
 Clone the repository: git clone
 Install dependencies: pip install -r requirements.txt
